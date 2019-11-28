@@ -13,5 +13,5 @@ Resources used: Udemy C++ course and student, Brandon Fabre
 
 Instructions: 
 To comple: g++ main.cpp
-To run: ./a.out
+To run: make realclean make all
 
