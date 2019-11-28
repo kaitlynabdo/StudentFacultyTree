@@ -11,6 +11,8 @@ Files included: BST.h, Faculty.h, Faculty.cpp, main.cpp, Menu.cpp, Menu.h, Perso
 
 Resources used: Udemy C++ course and student, Brandon Fabre
 
+Limitations: No file IO
+
 Instructions: 
 To comple: g++ main.cpp
 To run: make realclean make all
